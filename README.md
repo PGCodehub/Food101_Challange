@@ -13,7 +13,7 @@ Food-101 is a challenging dataset consisting of 101,000 images of 101 different 
 
 ![Bread Pudding in dataset](https://user-images.githubusercontent.com/41550023/55143198-3f2cf080-5164-11e9-8bcb-5bd3e6506b67.png)
 
-<img width="1014" alt="bread-pudding" src="https://user-images.githubusercontent.com/41550023/55143198-3f2cf080-5164-11e9-8bcb-5bd3e6506b67.png">
+
 
 And as you can see all the images are of bread pudding , even humans tend to mis interpret.
 we can see why models may struggle to get good results.
