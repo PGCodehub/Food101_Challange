@@ -11,9 +11,9 @@ was very difficult dataset to work becuase of the
 
 Food-101 is a challenging dataset consisting of 101,000 images of 101 different food classes. Taking a look at some of the images,
 
-![alt text](https://raw.githubusercontent.com/PGCodehub/Food101_Challange/blob/master/bread_pudding.png)
+![alt text](https://github.com/PGCodehub/Food101_Challange/blob/master/bread_pudding.png)
 
-
+And as you can see all the images are of bread pudding , even humans tend to mis interpret.
 we can see why models may struggle to get good results.
 
 
